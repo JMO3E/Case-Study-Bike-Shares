@@ -28,7 +28,7 @@
 
 ### Analysis
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the analysis stage I begin working in the spreadsheet file by finding the Max and Average ride length. Then I created a Pivot Table to see the total ride length membership per day. After that I exported all files to MySQL and began searching the total user by membership per month and the total time ride length by membership per month.  Finally, I exported al the result in csv files to begin with the visualization stage.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the analysis stage I begin working in the spreadsheet file by finding the Max and Average ride length. Then I created a Pivot Table to see the total ride length membership per day. After that I exported all files to MySQL and began searching the total user by membership per month and the total time ride length by membership per month.  Finally, I exported all the result in csv files to begin with the visualization stage.
 
 ---
 
