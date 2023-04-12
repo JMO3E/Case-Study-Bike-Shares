@@ -34,7 +34,7 @@
 
 ### Visualization
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the visualization stage I started creating the visuals in Tableau with the existing the analysis stage results. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the visualization stage I started creating the visuals in Tableau with the existing analysis stage results. 
 
 ![Users by Memberships](Visuals/R_C_M.png)
 
