@@ -43,6 +43,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After doing all the necessary research for this case study, casual members tend to begin using the bikes between Spring and Summer. With that in mind, the strategy should focus on showing the benefit of having an annual membership via the digital media and giving discount for the annual membership to casual riders between April and August. This will increase the odds for a casual rider to get the membership. Finally, the next step is begin talking with the marketing department to start creating strategies for those months.
 
-![Users by Memberships](Visuals/R_C_M.png)
+* The link for the visualization: https://public.tableau.com/app/profile/joseph.marrero/viz/GoogleDataAnalytics-Cyclistic_17138291601070/Cyclistic_Dashboard
 
-![Total Time by Memberships](Visuals/T_T_M.png)
+![Cyclistic Dashboard](Visuals/Cyclistic_Dashboard.png)
