@@ -1,4 +1,4 @@
-# Case Study: How Does a Bike-Share Navigate Speedy Success?
+# Case Study: How Does a Bike-Share Business Navigate Speedy Success?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is the Google Data Analytics final project. The objective of the capstone is to help Cyclistic, a company of that focus on renting bike and is base in Chicago with a total of 5824 bicycles that are geotracked and locked into a network with 689 stations. 
 
